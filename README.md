@@ -1,4 +1,4 @@
-## Hi there, I am Norah 👋
+## Hi there 👋, I am Norah 
 
 <!--
 **norahariokot/norahariokot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
