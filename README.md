@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a backend software developer who recently transitioned from a career in accounting. My fascination with web applications and how they function “under the hood” sparked my interest in programming. From sending emails to streaming videos, my curiosity about the technology driving these features led me to explore coding.
+<div align="justify"> I am a backend software developer who recently transitioned from a career in accounting. My fascination with web applications and how they function “under the hood” sparked my interest in programming. From sending emails to streaming videos, my curiosity about the technology driving these features led me to explore coding.
 
 My programming journey began with a simple curiosity about static web pages. As I learned to build these, my interest grew, leading me to develop fully-fledged web applications. I now specialize in backend development using Python, Flask, and SQLite for database management, with a solid foundation in Python and C.
 
-Building web applications has fueled my passion for bringing ideas to life and solving problems through programming logic. I am committed to continuous learning and eager to contribute to impactful software solutions. I look forward to collaborating with like-minded individuals and advancing exciting projects in the tech community.
+Building web applications has fueled my passion for bringing ideas to life and solving problems through programming logic. I am committed to continuous learning and eager to contribute to impactful software solutions. I look forward to collaborating with like-minded individuals and advancing exciting projects in the tech community. </div>
